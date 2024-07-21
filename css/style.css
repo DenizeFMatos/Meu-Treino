@@ -10,8 +10,8 @@ h1 {
 }
 section {
     text-align: center;
-    width: 300px;
-    margin: 20px auto;
+    width: 200px;
+    margin: 10px auto;
     padding: 40px;
     border: 1px solid #ccc;
     background-color: #fff;
@@ -32,7 +32,7 @@ h4 {
     font-size: 16px;
     margin: 40px;
     padding: 10px;
-    text-align: justify;
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -40,4 +40,6 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    font-size: 19px;
+    color: rgb(100, 52, 173);
 }
